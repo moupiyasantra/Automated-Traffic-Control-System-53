@@ -125,6 +125,8 @@ Upload a traffic dataset.
 4. Fairness Control: To prevent starvation, lanes that don't get green light accumulate additional priority over time.
 
 5. Emergency Override: Emergency vehicles automatically get highest priority regardless of other factors.
+
+   
 [Screenshot 2025-04-23 124154](https://github.com/user-attachments/assets/5ed36e99-9032-4438-b20d-819dad541ae8)!
 [Screenshot 2025-04-23 124154](https://github.com/user-attachments/assets/30d06ace-2266-4c14-8ce3-0e7cab20a5d8)
 ![Screenshot (78)](https://github.com/user-attachments/assets/577c795f-50bb-4225-8cbd-cb6b8ff0b2be)
