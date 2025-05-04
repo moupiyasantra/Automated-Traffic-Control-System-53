@@ -1,5 +1,4 @@
-# Automated Traffic Control System 1
-Automated Traffic Control System
+# Automated Traffic Control System 
 
 Overview : Automated Traffic Control System using YOLOv8 , Python , Computer Vision 
 This project implements a real - time intelligent traffic control system that uses deep learning and image processing to optimize traffic signal decisions dynamically . 
