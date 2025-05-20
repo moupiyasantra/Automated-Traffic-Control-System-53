@@ -1,25 +1,25 @@
 # Automated Traffic Control System 
 
-Overview : Automated Traffic Control System using YOLOv8 , Python , Computer Vision 
+__Overview :__ Automated Traffic Control System using YOLOv8 , Python , Computer Vision 
 This project implements a real - time intelligent traffic control system that uses deep learning and image processing to optimize traffic signal decisions dynamically . 
 
 ![Diagrammatic representation  (1)](https://github.com/user-attachments/assets/a15238e4-d882-42b8-b356-d9e3fe0adc8d)
 
-Key features : 
+__Key features :__ 
 1.  Object detection : Vehicles , Pedestrians and Emergency Vehicles 
 2. Priority Calculation Algorithm 
 3.  Resolves Starvation Problem 
 4. Highest priority given to the emergency vehicles 
 5.  Custom Simulation 
 
-Technologies used : 
+__Technologies used :__ 
 1. YOLOv8 (via Ultralytics) for real time object detection .
 2. OpenCV for image handling .
 3. Python for decision making logic and data processing .
 4. NumPy for numerical operations . 
 6. Tkinter for creating the GUI .
 
-Installations required : 
+__Installations required :__ 
 Here are the **installation requirements** for running the **Automated Traffic Control System** project:
 
 ---
@@ -103,7 +103,7 @@ python ATMS02.py
 to launch the **Traffic Control System GUI**. 
 
 
-How it works : 
+__How it works :__ 
 1. Upload Traffic Images from local device (min. 2 or max. 4) required to depict 2-4 lanes of a road.
 OR
 Upload Traffic Video. 
